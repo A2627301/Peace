@@ -3,14 +3,13 @@
 <head>
 <title>my first code>
 </head>
-<This is just the beginning hope is the key>
+<body>
+ <h1>Hello,world!</h1>
+<p>this is my first code</p>
 <body>
   <hp>Hello my name is peace 
    <p1> <this is my first time on GitHub>
-  </hello>
-     
+  </hello>  
 </body>
-
 <html>
-  
 </html>
